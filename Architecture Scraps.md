@@ -1,13 +1,13 @@
 # Architecture-scraps
 
 
-## 3 layer architecture in enterprise programmer's sphere
+## About 3 layer architecture in enterprise programmer's sphere
 
 Martin Fowler's articles:
-"PresentationDomainDataLayering"
+* "PresentationDomainDataLayering"
 https://martinfowler.com/bliki/PresentationDomainDataLayering.html
 
-"LayeringPrinciples"
+* "LayeringPrinciples"
 https://martinfowler.com/bliki/LayeringPrinciples.html
 
 
