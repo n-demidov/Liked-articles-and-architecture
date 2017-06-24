@@ -5,16 +5,17 @@ I googled it and find 2 interested comments:
 https://stackoverflow.com/questions/10739914/what-is-the-difference-between-3-tier-architecture-and-a-mvc/10740184#10740184
 Source: https://stackoverflow.com/a/10740045/6385361
 
-2) > MVC is a pattern used to make UI code easier to maintain and test. When the MVC pattern is used a larger portion of the UI code can be unit tested.
+2)
+> "... MVC is a pattern used to make UI code easier to maintain and test. When the MVC pattern is used a larger portion of the UI code can be unit tested.
 
 > Here is a good article which describes the MVC pattern in more detail: http://martinfowler.com/eaaDev/uiArchs.html
 
-3 tier architecture is a pattern used for a completely different reason. It separates the entire application into meaningful "groups": UI, Business Logic, Data Storage.
+> 3 tier architecture is a pattern used for a completely different reason. It separates the entire application into meaningful "groups": UI, Business Logic, Data Storage.
 
-So 3 tier application refers to all code in the application. The MVC pattern is a pattern used in the UI tier.
+> So 3 tier application refers to all code in the application. The MVC pattern is a pattern used in the UI tier.
 
-Here is a good article on the 3 tier architecture: http://dotnetslackers.com/articles/net/IntroductionTo3TierArchitecture.aspx
+> Here is a good article on the 3 tier architecture: http://dotnetslackers.com/articles/net/IntroductionTo3TierArchitecture.aspx
 
-For further information you can search the internet and find a gazzilion articles on both subjects..."
+> For further information you can search the internet and find a gazzilion articles on both subjects..."
 Source: https://stackoverflow.com/a/10740184/6385361
 
