@@ -8,6 +8,10 @@ https://www.youtube.com/watch?v=_BQ6gKti9RA
 Hexlet - "Webinar #15: Stateful vs. Stateless"
 https://www.youtube.com/watch?v=WPCz_U7D8PI
 
+Сергей Немчинский - обзор рекомендаций Роберта Мартина в книге "Чистый Код"
+
+https://www.youtube.com/watch?v=otrfSgeK3JI
+
 Hexlet - "Webinar #5: Тестирование и TDD"
 https://www.youtube.com/watch?v=DqOnfQ4Ad5s
 
@@ -66,12 +70,18 @@ http://www.youtube.com/watch?v=IlHIqEo6woA
 "Проектирование тестируемого ПО на Java Часть 1 [GeekBrains]"
 https://www.youtube.com/watch?v=I0UmmsyCjbg
 
-###### Прочее
-
-С целью ознакомления и освоения технологий хорошей практикой показало прохождение туториалов на официальных сайтах. Либо подбирать качественный материал в формате книги\видео.
+###### В дополнение к паттернам
 
 Hexlet - Вебинар о паттернах
 https://www.youtube.com/watch?v=wX6BBaQZpzE
+
+Сергей Немчинский - Шаблоны разработки (курс)
+https://www.youtube.com/watch?v=S-RjiMAxHio&list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4
+
+
+###### Прочее
+
+С целью ознакомления и освоения технологий хорошей практикой показало прохождение туториалов на официальных сайтах. Либо подбирать качественный материал в формате книги\видео.
 
 Теория вероятностей в работе программиста невероятное рядом [GeekBrains]
 https://www.youtube.com/watch?v=zaOptBoqmUg
