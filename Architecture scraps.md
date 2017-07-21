@@ -33,3 +33,32 @@ For further information you can search the internet and find a gazzilion article
 
 Source: https://stackoverflow.com/a/10740184/6385361
 
+.
+
+"MVC - один из шаблонов реализации presentation-layer'а)
+вообще в Microsoft application architecture guid очень подробно разжевано
+
+в ms гайде есть четкое разделение - логический "слой" переводят как "layer" (DataAccess layer, Business logic layer, Service layer, Presentation layer), а физический - как "tier" (сюда отностися client/server, 3-tiers deployment, n-tiers deployment, сервера, распределяющие запросы, и т.д.)"
+А. Иванов
+
+.
+###### Microservice architecutre
+
+"... Как только в программе появляются повторяющиеся моменты или дублирующиеся функции, тогда и возникает необходимость в переходе на микросервисные компоненты. Чтобы не плодить в разных частях системы тысячи микрофункций, лучше разбить большой модуль на атомарные функции. Причем деление происходит до тех пор, пока не получается вычленить отдельные функции.
+
+Если ранее монолитные сервисы реализовывали конкретные бизнес-функции, то сегодня микросервисы самостоятельных бизнес-функций не несут. Огромный плюс такой архитектуры в том, что можно реализовывать новые бизнес-функции, используя набор существующих микросервисов..."
+http://hawkhouse.ru/blog/kogda-opravdano-ispolzovanie-mikroservisnoj-arhitektury/
+
+.
+
+
+
+"Что нужно знать, чтобы стать системным архитектором" - https://habrahabr.ru/company/technoserv/blog/344702/
+
+"Chapter 21: Designing Web Applications" - https://msdn.microsoft.com/en-us/library/ee658099.aspx
+
+"Создание архитектуры программы или как проектировать табуретку" - https://habrahabr.ru/post/276593/
+
+"... То что она формироваться должна не по принципу «надо все продумать» а по принципу «не знаешь какое решение тут лучше, сделай проще и так, что бы было удобно переделать», это уже другое..."
+https://habrahabr.ru/post/276593/
+
