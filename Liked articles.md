@@ -14,12 +14,6 @@ http://www.ibm.com/developerworks/ru/library/j-ts2/
 
 #### Прочее
 
-С целью ознакомления и освоения технологий хорошей практикой показало прохождение туториалов на официальных сайтах. Либо подбирать качественный материал в формате книги\видео.
-
-Теория вероятностей в работе программиста невероятное рядом [GeekBrains]
-https://www.youtube.com/watch?v=zaOptBoqmUg
-
-
 ###### IoC and DI
 
 Что такое Dependency injection, Inversion of Control и почему это возникло. Часть #1
@@ -30,6 +24,13 @@ https://www.youtube.com/watch?v=5RHMPEtnjLw&index=1&list=PLoij6udfBnchRO93_tDZB4
 
 Вольный перевод статьи Мартина Фаулера "Inversion of Control Containers and the Dependency Injection pattern"
 http://yugeon-dev.blogspot.ru/2010/07/inversion-of-control-containers-and_21.html
+
+###### Прочее
+
+С целью ознакомления и освоения технологий хорошей практикой показало прохождение туториалов на официальных сайтах. Либо подбирать качественный материал в формате книги\видео.
+
+Теория вероятностей в работе программиста невероятное рядом [GeekBrains]
+https://www.youtube.com/watch?v=zaOptBoqmUg
 
 
 SOLID Принципы проектирования классов
@@ -56,6 +57,12 @@ http://www.java2s.com/Code/Java/Hibernate/GenericDaoFindAll.htm
 
 "Java. Реализация шаблона DAO. Продолжение"
 http://www.dokwork.ru/2014/03/daotalk2.html
+
+"Головач - Основы JDBC (4 видео)"
+http://www.youtube.com/watch?v=IlHIqEo6woA
+
+"Проектирование тестируемого ПО на Java Часть 1 [GeekBrains]"
+https://www.youtube.com/watch?v=I0UmmsyCjbg
 
 
 How do servlets work? Instantiation, sessions, shared variables and multithreading
