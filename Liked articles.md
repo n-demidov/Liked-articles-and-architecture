@@ -70,3 +70,9 @@ http://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-se
 
 SPRING INJECTION WITH @RESOURCE, @AUTOWIRED AND @INJECT
 http://blogs.sourceallies.com/2011/08/spring-injection-with-resource-and-autowired/
+
+"Java для белок: Основы EJB: часть 1"
+http://j4sq.blogspot.ru/2011/10/ejb-1.html
+
+«Стартаперы – народ финансово безграмотный». Как избежать ошибок на старте
+http://rb.ru/opinion/tipichnye-oshibki/
