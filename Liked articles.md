@@ -42,6 +42,12 @@ http://blog.byndyu.ru/2009/12/blog-post.html
 https://habrahabr.ru/post/143465/
 
 
+"Don't Use Java Assertions"
+http://www.yegor256.com/2016/06/17/dont-use-java-assertions.html
+
+"Need Robust Software? Make It Fragile"
+http://www.yegor256.com/2015/08/25/fail-fast.html
+
 Вариант написания DAO
 http://ru.stackoverflow.com/questions/299530/%D0%9A%D0%B0%D0%BA-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-dao
 
