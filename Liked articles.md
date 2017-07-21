@@ -74,5 +74,13 @@ http://blogs.sourceallies.com/2011/08/spring-injection-with-resource-and-autowir
 "Java для белок: Основы EJB: часть 1"
 http://j4sq.blogspot.ru/2011/10/ejb-1.html
 
+agile-manifest
+http://agilemanifesto.org/iso/ru/manifesto.html
+
+###### Проф-е прогр-е
+
 «Стартаперы – народ финансово безграмотный». Как избежать ошибок на старте
 http://rb.ru/opinion/tipichnye-oshibki/
+
+"16 Don'ts of Career Growth" (з\п. М.б. в этих советах что-то есть)
+http://www.yegor256.com/2017/01/24/career-advice.html
