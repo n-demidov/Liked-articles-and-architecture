@@ -5,11 +5,11 @@
 Евгений Напрягло - "Методы кэширования данных в распределенных высоконагруженных приложениях"
 https://www.youtube.com/watch?v=_BQ6gKti9RA
 
-"Webinar #15: Stateful vs. Stateless"
+Hexlet - "Webinar #15: Stateful vs. Stateless"
 https://www.youtube.com/watch?v=WPCz_U7D8PI
 
-статья IBM. Стратегии работы с транзакциями: Oбзор моделей транзакций и стратегий их использования
-http://www.ibm.com/developerworks/ru/library/j-ts2/
+Hexlet - "Webinar #5: Тестирование и TDD"
+https://www.youtube.com/watch?v=DqOnfQ4Ad5s
 
 
 #### Прочее
@@ -28,6 +28,9 @@ http://yugeon-dev.blogspot.ru/2010/07/inversion-of-control-containers-and_21.htm
 ###### Прочее
 
 С целью ознакомления и освоения технологий хорошей практикой показало прохождение туториалов на официальных сайтах. Либо подбирать качественный материал в формате книги\видео.
+
+Hexlet - Вебинар о паттернах
+https://www.youtube.com/watch?v=wX6BBaQZpzE
 
 Теория вероятностей в работе программиста невероятное рядом [GeekBrains]
 https://www.youtube.com/watch?v=zaOptBoqmUg
@@ -48,6 +51,10 @@ http://www.yegor256.com/2016/06/17/dont-use-java-assertions.html
 
 "Need Robust Software? Make It Fragile"
 http://www.yegor256.com/2015/08/25/fail-fast.html
+
+статья IBM. Стратегии работы с транзакциями: Oбзор моделей транзакций и стратегий их использования
+http://www.ibm.com/developerworks/ru/library/j-ts2/
+
 
 Вариант написания DAO
 http://ru.stackoverflow.com/questions/299530/%D0%9A%D0%B0%D0%BA-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-dao
