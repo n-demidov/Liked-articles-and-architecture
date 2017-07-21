@@ -25,36 +25,31 @@ https://www.youtube.com/watch?v=5RHMPEtnjLw&index=1&list=PLoij6udfBnchRO93_tDZB4
 Вольный перевод статьи Мартина Фаулера "Inversion of Control Containers and the Dependency Injection pattern"
 http://yugeon-dev.blogspot.ru/2010/07/inversion-of-control-containers-and_21.html
 
-###### Прочее
-
-С целью ознакомления и освоения технологий хорошей практикой показало прохождение туториалов на официальных сайтах. Либо подбирать качественный материал в формате книги\видео.
-
-Hexlet - Вебинар о паттернах
-https://www.youtube.com/watch?v=wX6BBaQZpzE
-
-Теория вероятностей в работе программиста невероятное рядом [GeekBrains]
-https://www.youtube.com/watch?v=zaOptBoqmUg
-
-
+###### SOLID
 SOLID Принципы проектирования классов
 http://blog.byndyu.ru/2009/10/solid.html
 
 "Принцип инверсии зависимости"
 http://blog.byndyu.ru/2009/12/blog-post.html
 
-карринг - преобразование функции от многих аргументов в функцию, берущую свои аргументы по одному
-https://habrahabr.ru/post/143465/
+###### Понравившиеся статьи-дополнения с курсов по Spring Security:
 
+«Соленое» хеширование паролей: делаем правильно
+http://www.internet-technologies.ru/articles/article_1807.html
 
-"Don't Use Java Assertions"
-http://www.yegor256.com/2016/06/17/dont-use-java-assertions.html
+Cryptography Types
+https://zeroproductionincidents.wordpress.com/tag/symmetric
 
-"Need Robust Software? Make It Fragile"
-http://www.yegor256.com/2015/08/25/fail-fast.html
+Асимметричное шифрование. Как это работает?
+https://intsystem.org/security/asymmetric-encryption-how-it-work
+
+Цифровая подпись
+https://intsystem.org/security/digital-signature/
+
+###### DB, transactions, DAO
 
 статья IBM. Стратегии работы с транзакциями: Oбзор моделей транзакций и стратегий их использования
 http://www.ibm.com/developerworks/ru/library/j-ts2/
-
 
 Вариант написания DAO
 http://ru.stackoverflow.com/questions/299530/%D0%9A%D0%B0%D0%BA-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-dao
@@ -71,6 +66,27 @@ http://www.youtube.com/watch?v=IlHIqEo6woA
 "Проектирование тестируемого ПО на Java Часть 1 [GeekBrains]"
 https://www.youtube.com/watch?v=I0UmmsyCjbg
 
+###### Прочее
+
+С целью ознакомления и освоения технологий хорошей практикой показало прохождение туториалов на официальных сайтах. Либо подбирать качественный материал в формате книги\видео.
+
+Hexlet - Вебинар о паттернах
+https://www.youtube.com/watch?v=wX6BBaQZpzE
+
+Теория вероятностей в работе программиста невероятное рядом [GeekBrains]
+https://www.youtube.com/watch?v=zaOptBoqmUg
+
+карринг - преобразование функции от многих аргументов в функцию, берущую свои аргументы по одному
+https://habrahabr.ru/post/143465/
+
+"Don't Use Java Assertions"
+http://www.yegor256.com/2016/06/17/dont-use-java-assertions.html
+
+"Need Robust Software? Make It Fragile"
+http://www.yegor256.com/2015/08/25/fail-fast.html
+
+agile-manifest
+http://agilemanifesto.org/iso/ru/manifesto.html
 
 How do servlets work? Instantiation, sessions, shared variables and multithreading
 http://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-sessions-shared-variables-and-multithreadi/3106909#3106909
@@ -80,9 +96,6 @@ http://blogs.sourceallies.com/2011/08/spring-injection-with-resource-and-autowir
 
 "Java для белок: Основы EJB: часть 1"
 http://j4sq.blogspot.ru/2011/10/ejb-1.html
-
-agile-manifest
-http://agilemanifesto.org/iso/ru/manifesto.html
 
 ###### Проф-е прогр-е
 
