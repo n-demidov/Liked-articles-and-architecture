@@ -17,6 +17,9 @@ Hexlet - "Webinar #5: Тестирование и TDD" - https://www.youtube.com
 
 #### Цитаты
 
+"(в обучении) Мне нравится следующий подход: когда выбираются сразу несколько ключевых задач, которые надо знать в конце курса. И весь курс тогда структурируется. То есть вы учитесь с непрерывным... желанием что ли... намерением понять вот это."
+Иван Головач, https://www.youtube.com/watch?v=97lWChaZNuI&t=16m30s
+
 "Когда у тебя в руках молоток, все задачи кажутся гвоздями."
 
 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
